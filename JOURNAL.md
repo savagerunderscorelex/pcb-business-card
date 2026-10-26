@@ -59,7 +59,7 @@ For this session, I just exported the Bill of Materials from EasyEDA and created
 
 **Total Time Spent: 0.5 hours (30 minutes)**
 
-# 10/26/2026 Session 2 (Final) (20 minutes)
+# 10/26/2026 Session 2 (Final) (30 minutes)
 
 I'm basically done so far, and I'm just adding some final edits. 
 
