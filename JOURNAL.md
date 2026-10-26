@@ -19,6 +19,8 @@ Here's the nearly finished (undecorated) PCB! (3D + 2D)
 
 ![Schematic Image](images/pcb-2d-journal-1.png)
 
+**Total time spent: 2 hours**
+
 # 10/25 Session 2 (3 hours)
 
 I felt my attention span dwindling the previous session (but I knew I would eventually come back) so I worked on my project for 2 sessions today.
@@ -46,3 +48,5 @@ PCB currently!
 
 ![Current PCB Image - Front](images/pcb-front-journal-2-current.png)
 ![Current PCB Image - Back](images/pcb-back-journal-2-current.png)
+
+**Total time spent: 3 hours**
