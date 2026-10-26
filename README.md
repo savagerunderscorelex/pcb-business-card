@@ -1,5 +1,33 @@
 
-Name | Designator | Footprint | Quantity | Manufacturer Part | Manufacturer | Supplier	| Supplier Part |	Price |
+# PCB Business Card
+
+## Overview
+
+This is my PCB business card with a NFC reader that leads to my website. I designed it on EasyEDA!
+
+Part of my design was inspired by digital logic gates. I have two circuits, --one on each side-- and my signature on the back + more about me.
+
+## PCB Images
+
+### Schematic
+
+![Schematic](images/schematic-journal-1.png)
+
+### PCB
+
+![PCB Design](images/pcb-2d-journal-1.png)
+
+### Front
+
+![PCB Front](images/pcb-final-front-journal-4.png)
+
+### Back
+
+![PCB Back](images/pcb-final-back-journal-4.png)
+
+## BOM
+
+Name | Designator | Footprint | Quantity | Manufacturer Part | Manufacturer | Supplier	| Supplier Part | Price |
 ------------ | ------------- | --- | ------- | ---- | ---- | ------- | ---- | ---- |
 25X48MM_NFC_ANTENNA| 1 | 25X48MM_NFC | 1 | 
 220nF | C1 | C0603 | 1 | CL10B224KA8NNNC | SAMSUNG(三星) | LCSC | C21120 | 0.009 |

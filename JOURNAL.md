@@ -58,3 +58,15 @@ For this session, I just exported the Bill of Materials from EasyEDA and created
 ![Bill of Materials](images/bom-journal-3.png)
 
 **Total Time Spent: 0.5 hours (30 minutes)**
+
+# 10/26/2026 Session 2 (Final) (20 minutes)
+
+I'm basically done so far, and I'm just adding some final edits. 
+
+On the PCB, I just removed the labels for the components because I thought the PCB would look nicer without it. I updated my README.md file and updated the repository with everything required to make the project.
+
+![Update Screenshot](images/journal-4-screenshot.png)
+
+I did this in two days!!! YAY!!!
+
+**Total Time Spent: 0.5 hours (30 minutes)**
