@@ -50,3 +50,9 @@ PCB currently!
 ![Current PCB Image - Back](images/pcb-back-journal-2-current.png)
 
 **Total time spent: 3 hours**
+
+# 10/26/2026 Session 1 (30 minutes)
+
+For this session, I just exported the Bill of Materials from EasyEDA and created the BOM table in the README.md file in my project's Github Repository. The math might be off for now because I did it in my head so I might have to change the total price again.
+
+![Bill of Materials](images/bom-journal-3.png)
