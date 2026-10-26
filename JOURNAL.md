@@ -56,3 +56,5 @@ PCB currently!
 For this session, I just exported the Bill of Materials from EasyEDA and created the BOM table in the README.md file in my project's Github Repository. The math might be off for now because I did it in my head so I might have to change the total price again.
 
 ![Bill of Materials](images/bom-journal-3.png)
+
+**Total Time Spent: 0.5 hours (30 minutes)**
