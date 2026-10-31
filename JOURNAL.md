@@ -59,7 +59,7 @@ For this session, I just exported the Bill of Materials from EasyEDA and created
 
 **Total Time Spent: 0.5 hours (30 minutes)**
 
-# 10/26/2026 Session 2 (Final) (30 minutes)
+# 10/26/2026 Session 2 (Final) 0.5 hours (30 minutes)
 
 I'm basically done so far, and I'm just adding some final edits. 
 
@@ -71,7 +71,7 @@ I did this in two days!!! YAY!!!
 
 **Total Time Spent: 0.5 hours (30 minutes)**
 
-# 10/31/2026 Fixing Issues with Submission (15 minutes)
+# 10/31/2026 Fixing Issues with Submission (0.25 hours)
 
 I had the project returned with issues I needed to fix, so I spent this time obviously fixing the issues. 
 
