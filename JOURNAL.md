@@ -70,3 +70,11 @@ On the PCB, I just removed the labels for the components because I thought the P
 I did this in two days!!! YAY!!!
 
 **Total Time Spent: 0.5 hours (30 minutes)**
+
+# 10/31/2026 Fixing Issues with Submission (15 minutes)
+
+I had the project returned with issues I needed to fix, so I spent this time obviously fixing the issues. 
+
+I found the links to the parts in the LCSC marketplace, and I added more about why I decided to make this project into the README.md file of the repository. 
+
+**Total Time Spend: 15 minutes**
