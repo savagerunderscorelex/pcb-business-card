@@ -75,6 +75,8 @@ I did this in two days!!! YAY!!!
 
 I had the project returned with issues I needed to fix, so I spent this time obviously fixing the issues. 
 
-I found the links to the parts in the LCSC marketplace, and I added more about why I decided to make this project into the README.md file of the repository. 
+I found the links to the parts in the LCSC marketplace, and I added more about why I decided to make this project into the README.md file of the repository.
+
+![Links Screenshot](images/journal-5-screenshot.png)
 
 **Total Time Spend: 15 minutes**
