@@ -79,4 +79,4 @@ I found the links to the parts in the LCSC marketplace, and I added more about w
 
 ![Links Screenshot](images/journal-5-screenshot.png)
 
-**Total Time Spend: 15 minutes**
+**Total Time Spend: 15 minutes (0.25 hours)**
