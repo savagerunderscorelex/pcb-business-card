@@ -45,5 +45,6 @@ LED-0603_R (Red LED)| LED1 | LED0603_RED | 1 | 19-217/R6C-AL1M2VY/3T | EVERLIGHT
 47 Ohm (Resistor)| R1 | R0603 | 1 | 0603WAF470JT5E | UNI-ROYAL(厚声) | LCSC | C23182 | 0.002 | https://www.lcsc.com/product-detail/C23182.html?s_z=n_q_C23182&globalKeyword=C23182
 NT3H2111W0FHKH (NFC Tag)| U1 | XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH | 1 | NT3H2111W0FHKH | NXP(恩智浦) |LCSC| C710403 | 0.564 | https://www.lcsc.com/product-detail/C710403.html?s_z=n_q_C710403&globalKeyword=C710403
 PCBs from JLCPCB | | | 5 | | | | | 4.00| jlcpcb.com |
-Shipping | | | | | | | | 7.54|
+Shipping (PCBs from JLCPCB) | | | | | | | | 7.54|
+Shipping (LCSC Parts) | | | | | | | | 4.00|
 TOTAL | | | | | | | | 12.114|
