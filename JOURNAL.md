@@ -79,4 +79,10 @@ I found the links to the parts in the LCSC marketplace, and I added more about w
 
 ![Links Screenshot](images/journal-5-screenshot.png)
 
-**Total Time Spend: 15 minutes (0.25 hours)**
+**Total Time Spent: 15 minutes (0.25 hours)**
+
+# 11/12/2026 Updating/Fixing Issues with Submission (0.25 hours)
+
+I had forgotten to update the .csv file when I updated the BOM in my readme file. I also had to update the links and added the cost for shipping the parts from LCSC.
+
+**Total Time Spent: 15 minutes**
