@@ -85,4 +85,6 @@ I found the links to the parts in the LCSC marketplace, and I added more about w
 
 I had forgotten to update the .csv file when I updated the BOM in my readme file. I also had to update the links and added the cost for shipping the parts from LCSC.
 
+![Updated BOM](images/bom-journal-6.png)
+
 **Total Time Spent: 15 minutes**
